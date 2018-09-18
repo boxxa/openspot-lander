@@ -114,7 +114,7 @@ width: 100%;
 
 .field input{
 	width: 58%;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	float: left;
 	background: none;
 	border: none;
@@ -131,7 +131,7 @@ width: 100%;
 	background: #d4d0ce;
 	color: #433022;
 	border: none;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 0;
@@ -254,7 +254,7 @@ email a:hover{
 	width: 100%;
 	float: left;
 	position: relative;
-	background: url(../images/background.jpg) center top no-repeat;
+	background: url(/coverphoto2.jpeg) center bottom no-repeat;
 	background-size: cover;
 	min-height: 360px;
 }
@@ -313,7 +313,7 @@ width: 100%;
 border-radius: 5px;
 	text-align: center;
 	width: 100%;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	float: left;
 	background: none;
 	font-size: 10px;
@@ -329,7 +329,7 @@ border-radius: 5px;
 	background: #d4d0ce;
 	color: #433022;
 	border: none;
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 0;
